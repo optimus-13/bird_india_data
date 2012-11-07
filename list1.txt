@@ -1,0 +1,47 @@
+GALLIFORMES: Phasianidae
+Snow Partridge Lerwa lerwa
+Szechenyi's Monal-Partridge Tetraophasis szechenyii
+Himalayan Snowcock Tetraogallus himalayensis
+Tibetan Snowcock Tetraogallus tibetanus
+Chukar Partridge Alectoris chukar
+See-see Partridge Ammoperdix griseogularis
+Black Francolin Francolinus francolinus
+Painted Francolin Francolinus pictus
+Chinese Francolin Francolinus pintadeanus
+Grey Francolin Francolinus pondicerianus
+Swamp Francolin Francolinus gularis
+Tibetan Partridge Perdix hodgsoniae
+Common Quail Coturnix coturnix
+Japanese Quail Coturnix japonica
+Rain Quail Coturnix coromandelica
+King Quail Coturnix chinensis
+Jungle Bush Quail Perdicula asiatica
+Rock Bush Quail Perdicula argoondah
+Painted Bush Quail Perdicula erythrorhyncha
+Manipur Bush Quail Perdicula manipurensis
+Hill Partridge Arborophila torqueola
+Rufous-throated Partridge Arborophila rufogularis
+White-cheeked Partridge Arborophila atrogularis
+Chestnut-breasted Partridge Arborophila mandellii
+Bar-backed Partridge Arborophila brunneopectus
+Mountain Bamboo Partridge Bambusicola fytchii
+Red Spurfowl Galloperdix spadicea
+Painted Spurfowl Galloperdix lunulata
+Blood Pheasant Ithaginis cruentus
+Western Tragopan Tragopan melanocephalus
+Satyr Tragopan Tragopan satyra
+Blyth's Tragopan Tragopan blythii
+Temminck's Tragopan Tragopan temminckii
+Koklass Pheasant Pucrasia macrolopha
+Himalayan Monal Lophophorus impejanus
+Sclater's Monal Lophophorus sclateri
+Red Junglefowl Gallus gallus
+Grey Junglefowl Gallus sonneratii
+Kalij Pheasant Lophura leucomelanos
+Tibetan Eared Pheasant Crossoptilon harmani
+Cheer Pheasant Catreus wallichi
+Mrs. Hume's Pheasant Syrmaticus humiae
+Common Pheasant Phasianus colchicus
+Grey Peacock-Pheasant Polyplectron bicalcaratum
+Indian Peafowl Pavo cristatus
+Green Peafowl Pavo muticus
